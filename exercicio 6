@@ -26,6 +26,4 @@ Senao
     Se maior >= 200 entao
       Escreva (maior, " o valor é maior que 200.")
     FimSe
-  FimSe
-FimSe
 FimAlgoritmo
